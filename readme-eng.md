@@ -1,4 +1,4 @@
-<p align="right"><a href="https://github.com/YakkaDev/CS-GO-Crosshair-Manager"><h5>RU</h></a></p>
+<p align="right"><a href="https://github.com/YakkaDev/CS-GO-Crosshair-Manager"><sup>RU</sup></a></p>
 
 #
 
