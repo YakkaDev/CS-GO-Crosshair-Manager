@@ -21,9 +21,9 @@ In the **autoexec.cfg** file along the path `<csgo folder>/csgo/cfg`, you need t
 
 > This file is an autoloader of the parameters of the main game settings file. For experienced players, autoexec is often already in the CS:GO launch options, but if you are a different case, then you need to proceed to the Steam library, then *select CS:GO with RMB - Properties - General - Launch options * and specify `+exec autoexec.cfg`
 
-The `bind "key" "changeCrosshair"` line is responsible for switching the crosshair. Replace *key* with your desired key.
-
 <p align="center"><img src="/images/launch.png"> </p>
+
+The `bind "key" "changeCrosshair"` line in autoexec.cfg is responsible for switching the crosshair. Replace *key* with your desired key.
 
 ---
 
