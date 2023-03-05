@@ -12,9 +12,9 @@
 
 
 ## Install
-Для установки менеджера необходимо перенести все файлы из [архива](https://github.com/YakkaDev/CS-GO-Crosshire-Manager/releases/download/master/Crosshair-M.zip) (кроме *autoexec.cfg*, о нём ниже) в свою папку конфигурации по пути `<csgo folder>/csgo/cfg`
+Для установки менеджера необходимо перенести все файлы из [архива](https://github.com/YakkaDev/CS-GO-Crosshair-Manager/releases/download/master/Crosshair-M.zip) (кроме *autoexec.cfg*, о нём ниже) в свою папку конфигурации по пути `<csgo folder>/csgo/cfg`
 
-В файл **autoexec.cfg** по пути `<csgo folder>/csgo/cfg` необходимо добавить строчки из аналогичного конфигурационного файла в пакете Crosshire Manager.
+В файл **autoexec.cfg** по пути `<csgo folder>/csgo/cfg` необходимо добавить строчки из аналогичного конфигурационного файла в [пакете Crosshair Manager](https://github.com/YakkaDev/CS-GO-Crosshair-Manager/releases/download/master/Crosshair-M.zip).
 
 > Данный файл является автозагрузчиком параметров основного файла настроек игры. У опытных игроков autoexec зачастую уже находится в параметрах запуска CS:GO, но если вы - другой случай, то необходимо проследовать в библиотеку Steam, далее *выбрать CS:GO при помощи ПКМ - Свойства - Общие - Параметры запуска* и указать `+exec autoexec.cfg`
 
