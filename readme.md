@@ -86,4 +86,4 @@ cl_crosshairusealpha "0"
 
 ---
 
-<p align="right"><a href="https://github.com/YakkaDev/CS-GO-Crosshair-Manager"><img alt="Hits" src="https://hits.sh/github.com/YakkaDev/CS-GO-Crosshair-Manager.svg?label=Gotcha&color=ffb100"/></a></p>
+<p align="CENTER"><a href="https://github.com/YakkaDev/CS-GO-Crosshair-Manager"><img alt="Hits" src="https://hits.sh/github.com/YakkaDev/CS-GO-Crosshair-Manager.svg?label=Gotcha&color=ffb100"/></a></p>
