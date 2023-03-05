@@ -1,6 +1,6 @@
 # CS:GO Crosshire Manager
 
-Crosshire Manager - это инструмент для организации, взаимодействия и управления вашими прицелами, их настройкой и зависимостями из одного конфигурационного файла.
+**Crosshire Manager** - это инструмент для организации, взаимодействия и управления вашими прицелами, их настройкой и зависимостями из одного конфигурационного файла.
 
 <p align="center"><img src="/images/preview.gif"> </p>
 
@@ -56,9 +56,9 @@ cl_crosshairusealpha "0"
 
 ## Colors
 Чтобы изменить цвет прицела воспользуйтесь командами ниже:
-|   Command     |     Color     |                       Image                          |
-| ------------- | ------------- | ---------------------------------------------------- |
-| cross_red     | Red           | ![Red](/images/colors/cross_red.png "Red")           |
+|   Command     |     Color     |                       Image                                 |
+| ------------- | ------------- | ----------------------------------------------------------- |
+| cross_red     | Red           | ![Red](/images/colors/cross_red.png "Red")                  |
 | cross_green   | Green         | ![Green](/images/colors/cross_green.png "Green")            |
 | cross_blue    | Blue          | ![Blue](/images/colors/cross_blue.png "Blue")               |
 | cross_black   | Black         | ![Black](/images/colors/cross_black.png "Black")            |
