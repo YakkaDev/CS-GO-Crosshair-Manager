@@ -1,6 +1,5 @@
 <p align="right"><a href="/readme-eng.md"><sup>ENG</sup></a></p>
 
-#
 
 # CS:GO Crosshair Manager
 

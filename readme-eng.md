@@ -1,6 +1,5 @@
 <p align="right"><a href="https://github.com/YakkaDev/CS-GO-Crosshair-Manager"><sup>RU</sup></a></p>
 
-#
 
 # CS:GO Crosshair Manager
 
