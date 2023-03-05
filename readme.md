@@ -83,3 +83,5 @@ cl_crosshairusealpha "0"
 | cross_purple  | Purple        | ![Purple](/images/colors/cross_purple.png "Purple")         |
 | cross_brown   | Brown         | ![Brown](/images/colors/cross_brown.png "Brown")            |
 | cross_chestnut| Chestnut      | ![Chestnut](/images/colors/cross_chestnut.png "Chestnut")   |
+
+<p align="right"><a href="https://github.com/YakkaDev/CS-GO-Crosshair-Manager"><img alt="Hits" src="https://hits.sh/github.com/YakkaDev/CS-GO-Crosshair-Manager.svg?label=Gotcha&color=ffb100"/></a></p>
