@@ -24,7 +24,7 @@
 
 Строка `bind "key" "changeCrosshair"` отвечает за переключение прицела. Замените *key* на вашу желаемую клавишу.
 
-![Launch settings](/images/launch.png "Launch settings")
+<p align="center"><img src="/images/launch.png"> </p>
 
 ---
 

@@ -23,7 +23,7 @@ In the **autoexec.cfg** file along the path `<csgo folder>/csgo/cfg`, you need t
 
 The `bind "key" "changeCrosshair"` line is responsible for switching the crosshair. Replace *key* with your desired key.
 
-![Launch settings](/images/launch.png "Launch settings")
+<p align="center"><img src="/images/launch.png"> </p>
 
 ---
 
