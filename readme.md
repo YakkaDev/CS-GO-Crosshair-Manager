@@ -12,7 +12,7 @@
 
 
 ## Install
-Для установки менеджера необходимо перенести все файлы из архива (кроме *autoexec.cfg*, о нём ниже) в свою папку конфигурации по пути `<csgo folder>/csgo/cfg`
+Для установки менеджера необходимо перенести все файлы из [архива](https://github.com/YakkaDev/CS-GO-Crosshire-Manager/releases/download/master/Crosshair-M.zip) (кроме *autoexec.cfg*, о нём ниже) в свою папку конфигурации по пути `<csgo folder>/csgo/cfg`
 
 В файл **autoexec.cfg** по пути `<csgo folder>/csgo/cfg` необходимо добавить строчки из аналогичного конфигурационного файла в пакете Crosshire Manager.
 
