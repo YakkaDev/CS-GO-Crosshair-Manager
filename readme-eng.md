@@ -15,9 +15,9 @@ Now all your configurations are much easier to store. It is no longer necessary 
 
 ## Install
 
-To install the manager, you need to transfer all files from [archive](https://github.com/YakkaDev/CS-GO-Crosshair-Manager/releases/download/master/Crosshair-M.zip) (except *autoexec.cfg*, about it below) to your configuration folder along the path `<csgo folder>/csgo/cfg`
+To install the manager, you need to transfer all files from [archive](https://github.com/YakkaDev/CS-GO-Crosshair-Manager/releases/download/v1.1/Crosshair-M.v1.1.rar) (except *autoexec.cfg*, about it below) to your configuration folder along the path `<csgo folder>/csgo/cfg`
 
-In the **autoexec.cfg** file along the path `<csgo folder>/csgo/cfg`, you need to add lines from a similar configuration file in the [Crosshair Manager package] (https://github.com/YakkaDev/CS-GO-Crosshair -Manager/releases/download/master/Crosshair-M.zip).
+In the **autoexec.cfg** file along the path `<csgo folder>/csgo/cfg`, you need to add lines from a similar configuration file in the [Crosshair Manager package] (https://github.com/YakkaDev/CS-GO-Crosshair-Manager/releases/download/v1.1/Crosshair-M.v1.1.rar).
 
 > This file is an autoloader of the parameters of the main game settings file. For experienced players, autoexec is often already in the CS:GO launch options, but if you are a different case, then you need to proceed to the Steam library, then *select CS:GO with RMB - Properties - General - Launch options * and specify `+exec autoexec.cfg`
 
